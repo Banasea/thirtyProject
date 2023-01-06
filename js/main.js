@@ -1,0 +1,1 @@
+let currentImage = document.querySelectorAll
